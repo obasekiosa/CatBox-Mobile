@@ -1,6 +1,6 @@
-# catbox
+# catbox-mobile
 
-A new Flutter and Firebase project.
+A new Flutter and Firebase mobile Application project.
 
 
 
